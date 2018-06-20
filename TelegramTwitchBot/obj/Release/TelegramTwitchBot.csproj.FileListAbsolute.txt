@@ -1,0 +1,9 @@
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\TelegramTwitchBot.exe.config
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\TelegramTwitchBot.exe
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\TelegramTwitchBot.pdb
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\Newtonsoft.Json.dll
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\Telegram.Bot.dll
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\Newtonsoft.Json.xml
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Release\Telegram.Bot.xml
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\obj\Release\TelegramTwitchBot.exe
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\obj\Release\TelegramTwitchBot.pdb

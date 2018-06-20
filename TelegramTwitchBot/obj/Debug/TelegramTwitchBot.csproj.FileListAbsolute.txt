@@ -1,0 +1,10 @@
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\TelegramTwitchBot.exe.config
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\obj\Debug\TelegramTwitchBot.csprojResolveAssemblyReference.cache
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\TelegramTwitchBot.exe
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\TelegramTwitchBot.pdb
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\Telegram.Bot.dll
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\bin\Debug\Telegram.Bot.xml
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\obj\Debug\TelegramTwitchBot.exe
+c:\users\salima\documents\visual studio 2013\Projects\TelegramTwitchBot\TelegramTwitchBot\obj\Debug\TelegramTwitchBot.pdb
